@@ -6,8 +6,8 @@
 
 | 英文目录 | 中文名称 | 说明 |
 | --- | --- | --- |
-| [projects/ai-bid-writing-platform](projects/ai-bid-writing-platform) | AI 标书写作平台 | 面向招投标场景的 AI 辅助标书写作 SaaS |
+| [ai-bid-writing-platform](ai-bid-writing-platform) | AI 标书写作平台 | 面向招投标场景的 AI 辅助标书写作 SaaS |
 
 ## 目录规则
 
-新项目统一放在 `projects/<project-name>/` 下。
+新项目统一放在仓库根目录下，目录名使用英文，例如 `<project-name>/`。
